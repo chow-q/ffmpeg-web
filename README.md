@@ -5,4 +5,6 @@
 
 2、pip install flask
 
+3、pip install psutil
+
 性能比obs 和xsplit都强很多，cpu占用0.1%
